@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  border: 2px solid salmon;
+  height: 300px;
+  width: 450px;
+  margin: 40px auto;
+  border-radius: 10px;
+  background-color: sandybrown;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+span {
+  font-size: 30px;
+  color: aliceblue;
+  font-weight: bold;
+}
+button {
+  margin: 10px;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 5px;
+  color: salmon;
+  font-size: 20px;
+}
